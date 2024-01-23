@@ -3,8 +3,7 @@
 Hi, I'm interested in **self-driving technology** and **path planning** creation.🚗      
 In my repositories, you'll find Path planning projects and autonomous driving projects that have been going on.
 
-![CircleCI](https://img.shields.io/badge/Univ.-GACHON-mediumaquamarine(https://www.gachon.ac.kr/kor/index.do)
-)   
+![CircleCI](https://img.shields.io/badge/Univ.-GACHON-mediumaquamarine)(https://www.gachon.ac.kr/kor/index.do)
 
 [![take](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
