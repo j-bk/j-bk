@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 👋
 
-Hi, I'm interested in **self-driving technology** and **path planning** creation.
+Hi, I'm interested in **self-driving technology** and **path planning** creation. 🚥🚗
 
 In my repositories, you'll find Path planning projects and autonomous driving projects that have been going on.
 
