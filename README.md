@@ -5,7 +5,7 @@ In my repositories, you'll find Path planning projects and autonomous driving pr
 
 <a href="https://www.gachon.ac.kr/kor/index.do">![CircleCI](https://img.shields.io/badge/Univ.-GACHON-mediumaquamarine)
 
-<a href="https://sites.google.com/view/takeout-gcu/%EC%9E%84%EC%9B%90%EC%A7%84/19%EA%B8%B0-%EC%A0%95%EB%B2%94%EA%B5%90?authuser=0">![CircleCI](https://img.shields.io/badge/Team.-TakeOut-yellow)      ![CircleCI](https://img.shields.io/badge/Team.-GADIS-darkturquoise)
+<a href="https://sites.google.com/view/takeout-gcu/%EC%9E%84%EC%9B%90%EC%A7%84/19%EA%B8%B0-%EC%A0%95%EB%B2%94%EA%B5%90?authuser=0">![CircleCI](https://img.shields.io/badge/Team.-TakeOut-yellow)>    ![CircleCI](https://img.shields.io/badge/Team.-GADIS-darkturquoise)
 
 <!--
 **j-bk/j-bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
