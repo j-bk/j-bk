@@ -15,7 +15,7 @@ In my repositories, you'll find Path planning projects and autonomous driving pr
      > Later. add to smartcar major
      
 <a href="https://sites.google.com/view/takeout-gcu/%EC%9E%84%EC%9B%90%EC%A7%84/19%EA%B8%B0-%EC%A0%95%EB%B2%94%EA%B5%90?authuser=0">![CircleCI](https://img.shields.io/badge/Team.-TakeOut-yellow)      
-- **self-driving technology**
+- **Self-driving technology**
 - Embedded System
 - Robotics
 
