@@ -29,6 +29,8 @@ In my repositories, you'll find Path planning projects and autonomous driving pr
 - **Mobile robot control Team(2018~2021)**
 - Development of shortest distance search algorithm using DFS and Floyd algorithm in 2D coordinate system
 - Development of mobile robot motor control & PSD sensor control code through atmega128
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7fff00&height=120&section=footer)
 <!--
 **j-bk/j-bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
