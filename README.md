@@ -1,4 +1,7 @@
-### Hi there 👋
+###Welcome to my GitHub profile 👋
+
+Hi, I'm interested in **self-driving technology** and **path planning** creation.
+In my repositories, you'll find Path planning projects and autonomous driving projects that have been going on.
 
 <!--
 **j-bk/j-bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
